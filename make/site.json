@@ -1,0 +1,10 @@
+{
+  "description": "Showcase your personal brand with a stunning digital portfolio designed for SMM specialists and content creators, featuring interactive elements and elegant visuals.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
